@@ -1,6 +1,0 @@
-E:\BaiduNetdiskDownload\WordCount\WordCount\bin\Release\WordCount.exe.config
-E:\BaiduNetdiskDownload\WordCount\WordCount\bin\Release\WordCount.exe
-E:\BaiduNetdiskDownload\WordCount\WordCount\bin\Release\WordCount.pdb
-E:\BaiduNetdiskDownload\WordCount\WordCount\obj\Release\WordCount.csproj.CoreCompileInputs.cache
-E:\BaiduNetdiskDownload\WordCount\WordCount\obj\Release\WordCount.exe
-E:\BaiduNetdiskDownload\WordCount\WordCount\obj\Release\WordCount.pdb

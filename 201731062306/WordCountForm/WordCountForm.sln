@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordCountForm", "WordCountForm\WordCountForm.csproj", "{3B0C9141-BC7F-47D0-B34A-7F8A7C75424D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordFormUtil", "Ming\WordFormUtil.csproj", "{27194DAA-44D4-48ED-AE1C-5C6EE17622E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B0C9141-BC7F-47D0-B34A-7F8A7C75424D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B0C9141-BC7F-47D0-B34A-7F8A7C75424D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B0C9141-BC7F-47D0-B34A-7F8A7C75424D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B0C9141-BC7F-47D0-B34A-7F8A7C75424D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27194DAA-44D4-48ED-AE1C-5C6EE17622E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27194DAA-44D4-48ED-AE1C-5C6EE17622E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27194DAA-44D4-48ED-AE1C-5C6EE17622E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27194DAA-44D4-48ED-AE1C-5C6EE17622E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E79DAFF-5ECD-42DA-95CD-E976CA71DEA6}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\Users\1542207061qq.com\Desktop\Ming\WordCountForm\Ming\bin\Debug\Ming.dll
+C:\Users\1542207061qq.com\Desktop\Ming\WordCountForm\Ming\bin\Debug\Ming.pdb
+C:\Users\1542207061qq.com\Desktop\Ming\WordCountForm\Ming\obj\Debug\WordFormUtil.csproj.CoreCompileInputs.cache
+C:\Users\1542207061qq.com\Desktop\Ming\WordCountForm\Ming\obj\Debug\Ming.dll
+C:\Users\1542207061qq.com\Desktop\Ming\WordCountForm\Ming\obj\Debug\Ming.pdb
