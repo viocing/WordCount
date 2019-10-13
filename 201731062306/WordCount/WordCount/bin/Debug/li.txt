@@ -1,0 +1,6 @@
+characters: :61
+words: :8
+lines: :4
+kkkk:3
+adewswwf:1
+ergtg:1
